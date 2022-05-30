@@ -1,7 +1,6 @@
 # 交通工程總整理筆記 (第一版)　
 
-![image](https://user-images.githubusercontent.com/53686476/170999115-88d0b97d-9ee9-4d29-9e91-88334748a445.png)
-
+![image](https://user-images.githubusercontent.com/53686476/170999531-ece28a6f-8b44-4bcb-b99b-80aaf397f908.png)
 
 ## 關於本筆記
 
